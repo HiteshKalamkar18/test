@@ -1,0 +1,17 @@
+MySQL, by default, runs on port # ___________ 
+
+ans 3306
+
+====
+
+To create a database in MySQL, the ________ DATABASE statement is used. 
+
+CREATE
+===
+Windows uses _________ characters to mark EOL. 
+
+c:\r\n
+
+======
+
+
